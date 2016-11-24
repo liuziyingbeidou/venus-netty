@@ -38,8 +38,7 @@ public class HelloClient {
         /** 
          * 当绑定到服务端的时候触发，打印"Hello world, I'm client." 
          *  
-         * @alia OneCoder 
-         * @author lihzh 
+         * @alia OneCoder
          */  
         @Override  
         public void channelConnected(ChannelHandlerContext ctx,
