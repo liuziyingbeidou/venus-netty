@@ -2,7 +2,7 @@ package com.venus;
 
 /**
  * Hello world!
- *
+ *@author  alan liu
  */
 public class App 
 {
