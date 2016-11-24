@@ -10,9 +10,8 @@ import java.util.concurrent.Executors;
 /**
  * Netty 服务端代码 
  *  
- * @author lihzh 
- * @alia OneCoder 
- * @blog http://www.coderli.com 
+ * @author Alan Liu
+ * @alia OneCoder
  */  
 public class HelloServer {  
   

@@ -10,9 +10,8 @@ import java.util.concurrent.Executors;
 /**
  * Netty 客户端代码 
  *  
- * @author lihzh 
- * @alia OneCoder 
- * @blog http://www.coderli.com 
+ * @author Alan Liu
+ * @alia OneCoder
  */  
 public class HelloClient {  
   
